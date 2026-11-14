@@ -1,0 +1,1 @@
+var e={炎:`spark`,氷:`frost`,雷:`arc`,風:`leaf`,闇:`haze`,状態異常:`haze`,土:`spark`,射撃:`spark`,回復:`frost`,強化:`spark`};var r=[`spark`,`frost`,`arc`,`leaf`,`haze`,`none`];function o(t){return typeof t==`string`&&r.includes(t)}function a(t){return o(t.moteStyle)?t.moteStyle:e[t.tagName.trim()]??`spark`}var f=[``,...r];export{f as n,a as t};

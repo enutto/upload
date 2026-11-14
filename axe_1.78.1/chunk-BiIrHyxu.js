@@ -1,0 +1,1 @@
+import{C as he,h as _,t as C,y as en}from"./chunk-DnrUGTw5.js";function u(n){return e=>{he(n)(e)}}function S(n){return(e,c)=>{e instanceof C?en(n)(e,c):_(n)(e,c)}}export{u as n,S as t};

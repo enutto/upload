@@ -1,0 +1,6 @@
+{
+  "transport": "skyway",
+  "backend": {
+    "url": "https://udonarium-axe-api.nt2991.workers.dev"
+  }
+}

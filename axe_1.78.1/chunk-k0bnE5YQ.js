@@ -1,0 +1,1 @@
+import{Bn as le,Kt as Xo}from"./chunk-Bb0zGITg.js";var c=(()=>{class e{constructor(){this.isOpen=Xo(!1)}open(){this.isOpen.set(!0)}close(){this.isOpen.set(!1)}toggle(){this.isOpen.update(t=>!t)}static{this.ɵfac=function(n){return new(n||e)}}static{this.ɵprov=le({token:e,factory:e.ɵfac,providedIn:`root`})}}return e})();export{c as t};

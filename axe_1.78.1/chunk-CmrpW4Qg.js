@@ -1,0 +1,1 @@
+import{Pt as p}from"./main-IBALGDMN.js";import{t as j}from"./chunk-D7ruG_4C.js";import{On as id,Xt as Yh,sn as b}from"./chunk-Bb0zGITg.js";function l(){let o=b(p,{optional:!0});if(!o)return;let n=b(j);id(()=>{n.canEditTabletop()||Yh(()=>o.close())})}export{l as t};

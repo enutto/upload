@@ -1,0 +1,1 @@
+var t=/* @__PURE__ */ new Set;function d(n){let e=n.then(()=>{},()=>{});return t.add(e),e.then(()=>t.delete(e)),n}export{d as t};

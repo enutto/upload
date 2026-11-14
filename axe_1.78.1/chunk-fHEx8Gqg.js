@@ -1,0 +1,1 @@
+import{a as Ht,g as Zt}from"./chunk-CRXJiirg.js";var i={dissolve:`dissolve`,bisect:`bisect`,gore:`flinch`};function n(e){return i[e]??``}function s(e){return e===`dissolve`?Zt:e===`bisect`?Ht:1}export{s as n,n as t};
